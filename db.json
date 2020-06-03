@@ -1,0 +1,96 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "nomProduits": "HEALTHY & BEAUTY FACIAL SAUNA",
+      "marque": "Healthy & beauty",
+      "prix": "260",
+      "image": "http://www.parapharma.ma/25948-large_default/healthybeauty-facial-sauna.jpg",
+      "description": "Healthy&Beauty vous propose l'accessoire indispensable pour un soin visage naturel, à la maison. Une jolie peau passe avant tout par une peau saine et propre. Même en se démaquillant soigneusement, la peau créée une quantité importante de cellules mortes, de poussières et autres pollutions. Le sauna facial permet d'extraire rapidement toutes ces impuretés"
+    },
+    {
+      "id": 2,
+      "nomProduits": "BOHO ROUGE À LÈVRES BIO MAT 310 GRENADE",
+      "marque": "Boho",
+      "prix": "170",
+      "image": "http://www.parapharma.ma/17056-large_default/boho-rouge-a-levres-bio-mat-transparent-310-grenade.jpg",
+      "description": "Healthy&Beauty vous propose l'accessoire indispensable pour un soin visage naturel, à la maison. Une jolie peau passe avant tout par une peau saine et propre. Même en se démaquillant soigneusement, la peau créée une quantité importante de cellules mortes, de poussières et autres pollutions. Le sauna facial permet d'extraire rapidement toutes ces impuretés"
+    },
+    {
+      "id": 3,
+      "nomProduits": "BENECOS BIO OMBRE À PAUPIÈRES MONO ",
+      "marque": "Benecos",
+      "prix": "20",
+      "image": "http://www.parapharma.ma/18970-large_default/benecos-bio-ombre-a-paupieres-mono-brillante-rose-quartz.jpg",
+      "description": "Healthy&Beauty vous propose l'accessoire indispensable pour un soin visage naturel, à la maison. Une jolie peau passe avant tout par une peau saine et propre. Même en se démaquillant soigneusement, la peau créée une quantité importante de cellules mortes, de poussières et autres pollutions. Le sauna facial permet d'extraire rapidement toutes ces impuretés"
+    },
+    {
+      "id": 4,
+      "nomProduits": "BENECOS FOR MEN ONLY BODY WASH 3IN1 200 ML",
+      "marque": "BENECOS",
+      "prix": "45",
+      "image": "http://www.parapharma.ma/27430-large_default/benecos-for-men-only-body-wash-3in1-200-ml.jpg",
+      "description": "Healthy&Beauty vous propose l'accessoire indispensable pour un soin visage naturel, à la maison. Une jolie peau passe avant tout par une peau saine et propre. Même en se démaquillant soigneusement, la peau créée une quantité importante de cellules mortes, de poussières et autres pollutions. Le sauna facial permet d'extraire rapidement toutes ces impuretés"
+    },
+    {
+      "id": 5,
+      "nomProduits": "EUCERIN CRÈME PIEDS 10% D'URÉE (100ML)",
+      "marque": "BENECOS",
+      "prix": "45",
+      "image": "http://www.parapharma.ma/28823-large_default/ec-eucerin-creme-pieds-10-d-uree-100ml.jpg",
+      "description": "Healthy&Beauty vous propose l'accessoire indispensable pour un soin visage naturel, à la maison. Une jolie peau passe avant tout par une peau saine et propre. Même en se démaquillant soigneusement, la peau créée une quantité importante de cellules mortes, de poussières et autres pollutions. Le sauna facial permet d'extraire rapidement toutes ces impuretés"
+    },
+    {
+      "id": 6,
+      "nomProduits": "GILBERT CARRÉS DE SOIN SACHET DE 100",
+      "marque": "BENECOS",
+      "prix": "45",
+      "image": "http://www.parapharma.ma/15821-large_default/gilbert-carres-de-soin-sachet-de-100-.jpg",
+      "description": "Healthy&Beauty vous propose l'accessoire indispensable pour un soin visage naturel, à la maison. Une jolie peau passe avant tout par une peau saine et propre. Même en se démaquillant soigneusement, la peau créée une quantité importante de cellules mortes, de poussières et autres pollutions. Le sauna facial permet d'extraire rapidement toutes ces impuretés"
+    },
+    {
+      "id": 7,
+      "nomProduits": "BENECOS FOR MEN ONLY BODY WASH 3IN1 200 ML",
+      "marque": "BENECOS",
+      "prix": "45",
+      "image": "http://www.parapharma.ma/27430-large_default/benecos-for-men-only-body-wash-3in1-200-ml.jpg",
+      "description": "Healthy&Beauty vous propose l'accessoire indispensable pour un soin visage naturel, à la maison. Une jolie peau passe avant tout par une peau saine et propre. Même en se démaquillant soigneusement, la peau créée une quantité importante de cellules mortes, de poussières et autres pollutions. Le sauna facial permet d'extraire rapidement toutes ces impuretés"
+    },
+    {
+      "id": 8,
+      "nomProduits": "BENECOS FOR MEN ONLY BODY WASH 3IN1 200 ML",
+      "marque": "BENECOS",
+      "prix": "45",
+      "image": "http://www.parapharma.ma/27430-large_default/benecos-for-men-only-body-wash-3in1-200-ml.jpg",
+      "description": "Healthy&Beauty vous propose l'accessoire indispensable pour un soin visage naturel, à la maison. Une jolie peau passe avant tout par une peau saine et propre. Même en se démaquillant soigneusement, la peau créée une quantité importante de cellules mortes, de poussières et autres pollutions. Le sauna facial permet d'extraire rapidement toutes ces impuretés"
+    },
+    {
+      "id": 9,
+      "nomProduits": "HEALTHY & BEAUTY FACIAL SAUNA",
+      "marque": "Healthy & beauty",
+      "prix": "260",
+      "image": "http://www.parapharma.ma/25948-large_default/healthybeauty-facial-sauna.jpg",
+      "description": "Healthy&Beauty vous propose l'accessoire indispensable pour un soin visage naturel, à la maison. Une jolie peau passe avant tout par une peau saine et propre. Même en se démaquillant soigneusement, la peau créée une quantité importante de cellules mortes, de poussières et autres pollutions. Le sauna facial permet d'extraire rapidement toutes ces impuretés"
+    }
+  ],
+  "panier": [
+    {
+      "id": 2,
+      "nomProduits": "BOHO ROUGE À LÈVRES BIO MAT 310 GRENADE",
+      "marque": "Boho",
+      "prix": 340,
+      "image": "http://www.parapharma.ma/17056-large_default/boho-rouge-a-levres-bio-mat-transparent-310-grenade.jpg",
+      "description": "Healthy&Beauty vous propose l'accessoire indispensable pour un soin visage naturel, à la maison. Une jolie peau passe avant tout par une peau saine et propre. Même en se démaquillant soigneusement, la peau créée une quantité importante de cellules mortes, de poussières et autres pollutions. Le sauna facial permet d'extraire rapidement toutes ces impuretés",
+      "Quantite": 2
+    },
+    {
+      "id": 5,
+      "nomProduits": "EUCERIN CRÈME PIEDS 10% D'URÉE (100ML)",
+      "marque": "BENECOS",
+      "prix": "45",
+      "image": "http://www.parapharma.ma/28823-large_default/ec-eucerin-creme-pieds-10-d-uree-100ml.jpg",
+      "description": "Healthy&Beauty vous propose l'accessoire indispensable pour un soin visage naturel, à la maison. Une jolie peau passe avant tout par une peau saine et propre. Même en se démaquillant soigneusement, la peau créée une quantité importante de cellules mortes, de poussières et autres pollutions. Le sauna facial permet d'extraire rapidement toutes ces impuretés",
+      "Quantite": 1
+    }
+  ]
+}
